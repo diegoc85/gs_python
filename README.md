@@ -3,7 +3,7 @@ Global Solution da matéria de Python
 
 Integrantes do grupo:
 - Diego Cabral RM: 557817
-- Arnaldo Filho RM: 55578
+- Arnaldo Filho RM: 555780
 - Débora Ivanowski RM: 555694
 
 Detalhes do projeto:
